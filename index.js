@@ -8,7 +8,7 @@ function calculateSum(a, b,) {
  console.log(5.338.toFixed(2));
 
 
- function sum(){
+ function summ(){
    var val = 0;
    for (var i = 0; i < arguments.length; i++){
      val +=arguments[i];
